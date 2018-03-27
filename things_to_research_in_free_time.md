@@ -1,3 +1,5 @@
-- **Vim autocomplete using dictionary**
-- **Convert `DateConverter` to `Kotlin`**
+- *Vim autocomplete using dictionary*
+- *Convert `DateConverter` to `Kotlin`*
 - **Read Constraint Layout**
+- **Why `ViewModel`**
+- **Imperative Programming vs Reactive Programming**
